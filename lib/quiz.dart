@@ -5,7 +5,7 @@ import 'package:quizapp/quiz_content.dart';
 class Quiz extends StatefulWidget {
   const Quiz({super.key});
 
-  @override
+  @override 
   State<Quiz> createState() => _QuizState();
 }
 
