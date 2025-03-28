@@ -58,8 +58,6 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
                 answerQuestion(answer);
               } );
             }) 
-            
-              
           ],
         ),
       ),
